@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=F7D433&center=true&vCenter=true&repeat=false&width=435&lines=Welcome+to+my+GitHub+Profile!" alt="Welcome Message" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=F7D433&center=true&vCenter=true&repeat=false&width=600&lines=Welcome+to+my+GitHub+Profile!" alt="Welcome Message" />
 </div>
 
 <div align="center">
@@ -173,7 +173,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F7D433&center=true&vCenter=true&width=435&lines=Let's+connect+and+create+together!" alt="Let's connect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F7D433&center=true&vCenter=true&width=600&lines=Let's+connect+and+create+together!" alt="Let's connect" />
 </div>
 
 <p align="center">
