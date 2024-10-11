@@ -48,13 +48,11 @@
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
+  <img src="[https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png](https://github.com/Recode-Hive/Stackoverflow-Analysis/assets/30715153/f3045ade-446f-46d8-a730-05f9f2ca9ecf)" width="100px" height="100px" />
+  <img src="[https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png](https://github.com/Recode-Hive/Stackoverflow-Analysis/assets/30715153/9666dc59-e8d8-4273-b110-ce4f26e2f3b2)" width="100px" height="100px" />
+  <img src="[https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png](https://github.com/Recode-Hive/Stackoverflow-Analysis/assets/30715153/74e579a0-a2b4-4010-9c8c-271a51cc441d)" width="100px" height="100px" />
+  <img src="[https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png](https://github.com/Recode-Hive/Stackoverflow-Analysis/assets/30715153/93a7cce8-595b-4c65-83fb-c3e92241f0ff)" width="100px" height="100px" />
+  <img src="[https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png](https://github.com/Recode-Hive/Stackoverflow-Analysis/assets/30715153/2274e5cd-fb05-43fc-a939-3e18ca881c1b)" width="100px" height="100px" />
 </div>
 
 ---
