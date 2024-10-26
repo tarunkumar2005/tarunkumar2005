@@ -45,15 +45,24 @@
 
 ---
 
-## GSSOC(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
-  <img src="https://gssoc.girlscript.tech/badges/1.png" width="100px" height="100px" />
-  <img src="https://gssoc.girlscript.tech/badges/2.png" width="100px" height="100px" />
-  <img src="https://gssoc.girlscript.tech/badges/3.png" width="100px" height="100px" />
-  <img src="https://gssoc.girlscript.tech/badges/4.png" width="100px" height="100px" />
-  <img src="https://gssoc.girlscript.tech/badges/5.png" width="100px" height="100px" />
-  <img src="https://gssoc.girlscript.tech/badges/6.png" width="100px" height="100px" />
+# 🪶 GSSOC(24) Badges:
+
+<div style='display:flex; align-items:center; gap: 5px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<div style='display:flex; gap: 10px;'>
+  <img src="https://gssoc.girlscript.tech/badges/postman.png?imwidth=96" width="100px" height="100px" />
+  <img src="https://gssoc.girlscript.tech/badges/1.png?imwidth=96" width="100px" height="100px" />
+  <img src="https://gssoc.girlscript.tech/badges/2.png?imwidth=96" width="100px" height="100px" />
+  <img src="https://gssoc.girlscript.tech/badges/3.png?imwidth=96" width="100px" height="100px" />
+  <img src="https://gssoc.girlscript.tech/badges/4.png?imwidth=96" width="100px" height="100px" />
+  <img src="https://gssoc.girlscript.tech/badges/5.png?imwidth=96" width="100px" height="100px" />
+  <img src="https://gssoc.girlscript.tech/badges/6.png?imwidth=96" width="100px" height="100px" />
 </div>
+</div>
+
+---
+
+# Hacktoberfest'24:
+  <img src="https://holopin.me/tarunkumar2005" height="300px" />
 
 ---
 
