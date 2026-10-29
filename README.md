@@ -36,12 +36,16 @@ I build full-stack web applications with Next.js, TypeScript, and Node.js, and I
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tarunkumar2005&show_icons=true&hide_border=true&theme=dark" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunkumar2005&layout=compact&hide_border=true&theme=dark" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=tarunkumar2005&theme=dark&hide_border=true" alt="GitHub streak" />
+  <img
+    height="165"
+    src="https://github-stats-extended.vercel.app/api?username=tarunkumar2005&show_icons=true&hide_border=true&theme=dark"
+    alt="GitHub stats"
+  />
+  <img
+    height="165"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=tarunkumar2005&layout=compact&hide_border=true&theme=dark"
+    alt="Top languages"
+  />
 </p>
 
 <picture>
