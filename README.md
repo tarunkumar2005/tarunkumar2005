@@ -1,110 +1,66 @@
+<h1 align="center">Hi, I'm Tarun Kumar</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Tarun%20Kumar&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20Ai%20and%20Web3%20Enthusiast&descAlignY=60&descAlign=50" alt="Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&height=40&lines=Software+Development+Engineer;Full-Stack+with+Next.js+and+TypeScript;Strengthening+DSA+in+C%2B%2B;MCA+%40+NIT+Jamshedpur" alt="Typing animation" />
 </p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=F7D433&center=true&vCenter=true&repeat=false&width=600&lines=Welcome+to+my+GitHub+Profile!" alt="Welcome Message" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=435&lines=Full-Stack+Developer;AI+%26+Web3+Innovator;Open+Source+Contributor;Microsoft+Learn+Student+Ambassador" alt="Roles" />
-</div>
-
-<h3 align="center">🚀 Founder @Creatique | Top 50 GSSoC '24 | Building AI & Web3 Applications</h3>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tarunkumar2005&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/tarunkumar2005?label=Followers&style=social" alt="GitHub followers" />
-  <img src="https://img.shields.io/twitter/follow/tarun_kumar8278?style=social" alt="Twitter followers" />
+  <b>NIMCET AIR 349</b> · GSSoC 2024 Rank #39 · Samsung Solve for Tomorrow Top 100
 </p>
 
----
+I build full-stack web applications with Next.js, TypeScript, and Node.js, and I'm currently strengthening my CS fundamentals and DSA in C++. Previously a React Developer Intern at HYGWell, and Tech Tank Intern → Campus Lead at CICF, CHRIST University. Open to Software Development Engineer internships.
 
-## 🌟 About Me
+## Highlights
 
-🚀 **Hey, I’m Tarun Kumar, a Full-Stack Developer passionate about AI & Web3!**  
+- **GSSoC 2024 Extended: Rank #39** (top 0.1% of 40,000+ contributors), with 80+ merged PRs across open-source projects
+- **Samsung Solve for Tomorrow 2025: Top 100 Finalist** out of 20,000+ participants · [Samsung's shortlist announcement](https://news.samsung.com/in/samsung-india-reveals-the-first-shortlist-of-100-teams-of-solve-for-tomorrow-season-4)
+- **Microsoft Learn Student Ambassador (Beta milestone):** ran 6 technical workshops on GitHub, Docker, and cloud tools for 1,500+ students
+- **Chai-Thumbnail:** AI YouTube thumbnail generator built in a 48-hour hackathon, featured live by Hitesh Choudhary and Piyush Garg · [Live demo](https://chai-thumbnail-omega.vercel.app) · [Code](https://github.com/tarunkumar2005/chai-thumbnail) · [Watch the feature](https://www.youtube.com/live/C8za1Limb-Y?t=591)
 
-- 🔹 **Specializing in:** AI-powered applications, Web3 dApps, & scalable full-stack solutions.
-- 🎯 **Top 50 in GSSoC 2024**, contributing to open-source projects globally.
-- 🏆 **Microsoft Learn Student Ambassador**, fostering innovation & tech learning.
-- 🔗 **Founder of Creatique Blogs**, an AI-driven content creation platform.
-- 🛠 **Tech Stack:** Next.js, TypeScript, React.js, Node.js, Express.js, Solidity, OpenAI API.
-
-💡 **I love building innovative projects, contributing to open-source, and pushing the boundaries of technology.**  
-
-📫 **Reach me at:** [tarunkumar6258278@gmail.com](mailto:tarunkumar6258278@gmail.com)  
-📄 **Check out my experiences:** [LinkedIn Profile](https://www.linkedin.com/in/tarunkumar8278/)  
-
----
-
-## 🛠️ Tech Stack & Tools
+## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,solidity,git,github,tailwind,docker,aws,figma,vscode&perline=9" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,cpp,py,react,nextjs,nodejs,express,postgres,mongodb,redis,prisma,tailwind,git,github&perline=8" alt="Tech stack icons" />
 </p>
 
----
+| Area | Technologies |
+| --- | --- |
+| Languages | TypeScript, JavaScript, C++, Python, SQL |
+| DSA & Core CS | Data Structures & Algorithms, Algorithms, Problem Solving |
+| Frontend | React, Next.js (App Router), Tailwind CSS, shadcn/ui, Zustand, Context API |
+| Backend | Node.js, Express.js, Prisma ORM, REST APIs, WebSockets (Socket.io), JWT |
+| Database | PostgreSQL, MongoDB, Redis |
+| AI | OpenAI API, RAG workflows, LangChain (basic) |
+| Version Control | Git, GitHub |
 
-## 🚀 Featured Projects
-
-<table align="center">
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <h3>🔗 Decentralized Twitter</h3>
-      <a href="https://github.com/tarunkumar2005/decentralized-twitter" target="_blank">
-        <img src="https://via.placeholder.com/300x200?text=Decentralized+Twitter" width="90%" alt="Decentralized Twitter"/>
-      </a>
-      <p>A censorship-resistant Web3 Twitter built on Ethereum.</p>
-      <p><strong>Tech Stack:</strong> Solidity, Next.js, Hardhat, MetaMask</p>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <h3>📝 AI-Powered Form Builder</h3>
-      <a href="https://github.com/tarunkumar2005/ai-form-builder" target="_blank">
-        <img src="https://via.placeholder.com/300x200?text=AI+Form+Builder" width="90%" alt="AI Form Builder"/>
-      </a>
-      <p>Create AI-assisted dynamic forms like Google Forms.</p>
-      <p><strong>Tech Stack:</strong> Next.js, OpenAI API, Tailwind CSS</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <h3>💬 Real-Time Collaborative Text Editor</h3>
-      <a href="https://github.com/tarunkumar2005/collaborative-text-editor" target="_blank">
-        <img src="https://via.placeholder.com/300x200?text=Collaborative+Editor" width="90%" alt="Collaborative Text Editor"/>
-      </a>
-      <p>Google Docs-like real-time text editor.</p>
-      <p><strong>Tech Stack:</strong> Next.js, WebSockets, Quill.js</p>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <h3>📊 Stock Market Watchlist</h3>
-      <a href="https://github.com/tarunkumar2005/stock-market-watchlist" target="_blank">
-        <img src="https://via.placeholder.com/300x200?text=Stock+Market+Watchlist" width="90%" alt="Stock Market Watchlist"/>
-      </a>
-      <p>Real-time stock tracking app with sentiment analysis.</p>
-      <p><strong>Tech Stack:</strong> Next.js, WebSockets, Firebase</p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tarunkumar2005&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarunkumar2005&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunkumar2005&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
----
-
-## 🔗 Let's Connect
+## GitHub Stats
 
 <p align="center">
-  <a href="https://linkedin.com/in/tarunkumar8278" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:tarunkumar6258278@gmail.com">
-    <img src="https://img.shields.io/badge/📧 Email-Contact%20Me-blue?style=for-the-badge" alt="Email"/>
-  </a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tarunkumar2005&show_icons=true&hide_border=true&theme=dark" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunkumar2005&layout=compact&hide_border=true&theme=dark" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=tarunkumar2005&theme=dark&hide_border=true" alt="GitHub streak" />
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tarunkumar2005/tarunkumar2005/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tarunkumar2005/tarunkumar2005/output/github-snake.svg" />
+  <img alt="Contribution graph snake animation" src="https://raw.githubusercontent.com/tarunkumar2005/tarunkumar2005/output/github-snake.svg" />
+</picture>
+
+## Currently
+
+- Practicing DSA in C++ on Codeforces, with solutions in [tarunkumar2005/codeforces](https://github.com/tarunkumar2005/codeforces)
+- Building core C/C++ fundamentals alongside my MCA coursework
+
+## Find Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/tarunkumar8278"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://iamtarunkumar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://leetcode.com/u/tarunkumarcode/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://codeforces.com/profile/tarunkumar6258278"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+  <a href="mailto:tarunkumar6258278@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
